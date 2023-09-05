@@ -21,7 +21,7 @@ String str will never be null.
 
 \*\* Step 1:
 
-The original result from the function:
+The original result from the function with input "one.two.three":
 
 ```
     -ne.two.three
