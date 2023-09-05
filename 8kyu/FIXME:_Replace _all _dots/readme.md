@@ -1,5 +1,7 @@
 - FIXME: Replace all dots
 
+Category: Fundamentals
+
 \*\* DESCRIPTION:
 The code provided is supposed replace all the dots . in the specified String str with dashes -
 
